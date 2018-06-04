@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/bc/ui5_ui5/sap/zcontrolreq_v2/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>ZCONTROLREQ_V2</ICF_NAME>
+    <ICF_LANGU>P</ICF_LANGU>
+    <KIND401>Y</KIND401>
+    <ICFBITMAP>00000000</ICFBITMAP>
+    <SYSLOG401>X</SYSLOG401>
+    <LOG_FLAG>X</LOG_FLAG>
+    <LOG_ORDER>AUTH_ASSERT,AUTH_FIELD,AUTH_CERT,AUTH_SSO,AUTH_BASIC,AUTH_SAP,AUTH_SPNEGO,AUTH_SAML,AUTH_SERVI</LOG_ORDER>
+    <HDROTRLPAG>005056A90A751ED78C85C834B4A620EE</HDROTRLPAG>
+    <APPLCUSTFLAG>2</APPLCUSTFLAG>
+    <LOGIN_PROCESS>L</LOGIN_PROCESS>
+    <ORIG_NAME>zcontrolreq_v2</ORIG_NAME>
+   </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>ZCONTROLREQ_V2</ICF_NAME>
+    <ICF_LANGU>P</ICF_LANGU>
+    <ICF_DOCU>Controle de Request</ICF_DOCU>
+   </ICFDOCU>
+  </asx:values>
+ </asx:abap>
+</abapGit>

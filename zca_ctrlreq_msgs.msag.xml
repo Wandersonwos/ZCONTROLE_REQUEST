@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Classe de Mensagens CA</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Request &amp; salva com sucesso!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Selecione pelo menos uma request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Selecione uma request de Workbench ou Customizing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Campo Process Area obrigatório</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Nenhuma request encontrada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Erro no SHDB</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Request invalida</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Erro ao salvar: &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Erro ao liberar: &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Esta request não possui objetos.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Não foi possível criar uma cópia dessa request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Cópia inválida</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Erro ao deletar a request.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Request/Task &amp; já tá liberada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Por favor informe ao menos um filtro de busca.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Só é possível editar request Workbench ou Customizing não liberada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>A Request já existe no sistema de controle</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Descrição da request invalida: &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Tipo invalido</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Request já liberada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Somente o usuário &amp; pode incluir a request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Transação Obsoleta - Favor utilizar ZTVRN</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Campo inválido: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZCA_CTRLREQ_MSGS</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Só é possível solicitar import. imediata em QA de requests liberadas.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
